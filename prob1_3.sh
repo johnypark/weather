@@ -16,7 +16,7 @@ for year in {1973..2016}
 		 done
 		 
 		  
-	sort dailymax_`pwd|tail -c 5`.txt | tail -n 1 >> $origin/yeartemp.txt
+	sort $origin/MaxbyYear/dailymax_`pwd|tail -c 5`.txt | tail -n 1 >> $origin/yeartemp.txt
 	echo $year >> $origin/year.txt 
     	cd $origin  ##Go back to: $origin directory...
 done
