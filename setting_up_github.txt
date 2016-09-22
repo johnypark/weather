@@ -1,4 +1,4 @@
-```sh
+
 mkdir zoo6927
 mkdir weather
 echo "# weather" >> README.md
@@ -14,4 +14,3 @@ git remote add origin git@github.com:username/myapp.git
 
 
 
-```
