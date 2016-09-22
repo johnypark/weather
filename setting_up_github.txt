@@ -1,3 +1,4 @@
+```sh
 mkdir zoo6927
 mkdir weather
 echo "# weather" >> README.md
@@ -6,3 +7,11 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://johnypark@github.com/johnypark/weather.git
 git push -u origin master
+
+##change git origin
+git remote rm origin
+git remote add origin git@github.com:username/myapp.git
+
+
+
+```
