@@ -1,5 +1,5 @@
-cript to get the weather from WeatherUnderground for August between 1973 and 2016
-#
+#script to get the weather from WeatherUnderground for August between 1973 and 2016
+
 #Script by Matt 
 
 month=08 # Only looking at August.

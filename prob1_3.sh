@@ -1,6 +1,6 @@
 
-## Code to get daily maximum from each year from 1973 to 2016, and store the txt files at direcotry: MaxbyYear 
-
+## Script to get daily maximum from each year from 1973 to 2016, and store the txt files at direcotry: MaxbyYear 
+## Script by John 
 cd data # cd into data directory 
 mkdir MaxbyYear
 origin=`pwd` #Set origin directory 
