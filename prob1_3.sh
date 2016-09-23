@@ -28,5 +28,9 @@ sort -k 2 -n yearlymaxtemp.txt | tail -n 5 >> prob1_3_output.txt
 echo "Five years with lowest temperatures" >> prob1_3_output.txt
 sort -k 2 -n yearlymaxtemp.txt | head -n 5 >> prob1_3_output.txt
 
-
+##=======================Results==================###
+#prob 1-3 (1) answer is in $origin/MaxbyYear/ with filenames :dailymax_$year.txt
+#prob 1-3 (2) answer is in yearlymaxtemp.txt
+#prob 1-3 (3) answer is in prob1_3_output.txt 
+##=================================================###
 
